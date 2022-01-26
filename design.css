@@ -1,11 +1,10 @@
 body {
     margin: 0;
     font-size: 21px;
-    background-color: rgb(134, 165, 130);
 }
 
 header {
-    background-color: #6ebb72;
+    background-color: #5a815c;
     color: black;
     padding: 30px 0;
     text-align: center;
@@ -41,24 +40,15 @@ padding: 25px;
 }
 
 main {
-text-align: center;
-padding:  px;
-}
 
-button {
+background-color: #7dc598;
+text-align: center;
+padding: 25 px;
+}
+ button {
     border-color: white;
-    border-width: 2px;
-    border-style: solid; 
-    background-color: #6ebb72;
-    color: black;
-    padding: 10px;
+    border: 5px;
+    background-color: rgb(70, 160, 77);
+    color: white;
+
  }
-
-.verlinkung {
-text-align: center;
-background-color: rgb(59, 126, 88);
-padding: 20px;
-margin-top: 100px;
-
-
-}
