@@ -59,6 +59,24 @@ text-align: center;
 background-color: rgb(59, 126, 88);
 padding: 20px;
 margin-top: 100px;
-
-
 }
+
+nav{
+    display: inline;            
+    list-style-type: none;
+    padding: 0px;
+    margin: 0px;                         
+}
+nav a {
+    font-size: 25px;
+    color: black;                                
+    text-decoration: none;
+    }  
+.navigation{
+   display:inline; 
+   margin: 10px; 
+}    
+nav a:hover {
+color: #2b522d;
+
+}                                            
